@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 import fs from 'fs'
-
+gblobal.numercode=   [507678
 global.owner = [
   ['15108170058', 'Ton', true],
   ['']
