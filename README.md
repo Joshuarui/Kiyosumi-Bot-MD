@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://github.com/FG98F?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
 <a href="https://github.com/TonnAmour/Kiyosumi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TonnAmour/Kiyosumi?&style=social"></a>
-<a href="https://github.com/TonnAmour/Kiyosumi/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TonnAmour/Kiyosumi?style=social"></a>
+<a href="https://github.com/TonnAmour/Kiyosumi/network/members"><img title="Fork" 507src="https://img.shields.io/github/forks/TonnAmour/Kiyosumi?style=social"></a>
 <a href="https://github.com/TonnAmour/Kiyosumi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TonnAmour/Kiyosumi?label=Watching&style=social"></a>
 </p>
 
