@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 import fs from 'fs'
-
+global.botnumbercode 50778
 global.owner = [
   ['15108170058', 'Ton', true],
   ['']
